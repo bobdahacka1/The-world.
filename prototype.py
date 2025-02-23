@@ -10,5 +10,5 @@ time.sleep("30")
 print("???")
 for i in range(100000):
   os.system("start chrome.exe")
-  os.systm("start prototype.py")
+  os.system("start prototype.py")
   
